@@ -181,12 +181,12 @@ em{
 	height:400px;
 }
 .home_carousel .item_1{
-	background: url('/media/img/doctor_backg3.jpg') no-repeat;
+	background: url('../media/img/doctor_backg3.jpg') no-repeat;
 	background-size: cover;
 	padding-top: 5%;
 }
 .home_carousel .item_3{
-	background: url('/media/img/doctor_backg2.png') no-repeat;
+	background: url('../media/img/doctor_backg2.png') no-repeat;
 	background-size: cover;
 	padding-top: 5%;
 }
@@ -203,7 +203,7 @@ em{
 	color: #6F060A;
 }
 .home_carousel .item_4{
-	background: url('/media/img/doctor_backg4.jpg') no-repeat;
+	background: url('../media/img/doctor_backg4.jpg') no-repeat;
 	background-size: cover;
 	padding-top: 1%;
 }
@@ -405,7 +405,7 @@ em{
 /* start extra */
 .extra{
 	padding: 3% 0;
-	background: url('/media/img/extra_background.jpg') no-repeat;
+	background: url('../media/img/extra_background.jpg') no-repeat;
 	background-size: cover;
 }
 .extra h2{
@@ -479,7 +479,7 @@ em{
 		display: none;
 	}
 	.homepage_header {
-		background: url('/media/img/header_background.jpg');
+		background: url('../media/img/header_background.jpg');
 		background-size: cover;
 		color: #ffffff;
 	}
